@@ -37,7 +37,7 @@ This Python script allows you to create custom art or images using NumPy and dis
 
 Here's an example of the art you can create using this script:
 
-
+https://github.com/shahbaaz925/numpy_art_generator/blob/3b9da1f08f157df62f5318004e156d55e246f71c/Capture.PNG
 
 ## License
 
